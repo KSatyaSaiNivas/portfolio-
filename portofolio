@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-left">
+            <img class="logo-image" src="https://res.cloudinary.com/diiuifajg/image/upload/v1753281575/ChatGPT_Image_Jul_23_2025_08_09_06_PM_u4kgjq.png" alt="logo" >
+        </div>
+        <div class="navbar-right">
+            <a class="a-element" href="#Home">Home</a>
+            <a class="a-element" href ="#about">about</a>
+            <a  class="a-element" href="#Skills">Skills</a>
+            <a  class="a-element" href="#Contact">Contact</a>
+           
+        </div>
+    </div>
+    <div class="home">
+        <div class="home-left" id="Home">
+            <h1 class="home-h1">K.Satya Sai Nivas</h1>
+            <p class="home-p">I’m K. Satya Sai Nivas, a Computer Science student with a passion for web development and coding. I enjoy creating clean, responsive websites using HTML, CSS, and JavaScript, and I’m constantly improving my skills in programming languages like Java . I’m a quick learner, problem solver, and always open to new challenges that help me grow..</p>
+        </div>
+        <div class="home-right">
+            <img src="https://res.cloudinary.com/diiuifajg/image/upload/v1753206086/WhatsApp_Image_2025-07-22_at_23.09.50_288b3642_zli2us.jpg"alt="my logo" style ="width:250px; height: auto; object-fit: cover; border-radius: 50%; border: 3px solid #000;">
+        </div>
+    </div>
+     <div class="about" id="about">
+        <h1 class="skl-h1">About Me</h1>
+        <div class="about-info">
+        <div class="skills-sub">
+            <div class="skills-sub-content">
+                <h1>High School</h1>
+                <p>Chaitanya Public School Kakinada,Andhra Pradesh,India</p>
+                <p>High School Class(X) : Percentage:98% , PassedOut Year :2020</p>
+        </div>
+            <div class="skills-sub-content">
+            <h1>INTERMEDIATE</h1>
+           <p>Pragati Junior College Kakinada,Andhra Pradesh,India</p>
+            <p>(Class XII) – MPC Stream , Percentage: 71% , Academic Year JUNE 2020 -March 2022,
+                 </p>
+        </div>
+            <div class="skills-sub-content">
+            <h1>B-Tech</h1>
+            <p>Ideal Institute Of Technology kakinada,Andhra Pradesh, India</p>
+            <p>Computer Science Engineering(AI&ML); CGPA: 7.18 June 2022 - June 2026</p>
+            </div>
+        </div>
+    
+    <div class="Skills" id="Skills">
+        <h1 class="skl-h1">SKILLS</h1>
+        <div class="skills-sub">
+            <div class="skills-sub-content">
+            <h1>Web Designing</h1>
+            <p>Providing Web Designing Services and front-end development using HTML, CSS, and JavaScript.</p>
+        </div>
+            <div class="skills-sub-content">
+            <h1>Coding</h1>
+            <p>Enthusiastic coder skilled in Java, HTML, CSS, and JavaScript. <br>Passionate about solving logical problems through clean and efficient code.</p>
+        </div>
+            <div class="skills-sub-content">
+            <h1>Soft Skills</h1>
+            <p> Problem Solving, Time Management, Adaptability, Team Collaboration, Quick Learner</p>
+            </div>
+    </div>
+    </div>
+    <div class="contact" id="Contact">
+        <h1 class="skl-h1">Contact Us</h1>
+        <div class="contact-info">
+        <p>NAME: K Satya Sai Nivas</p>
+        <p>MOBILE NUMBER: 8309514998</p>
+        <p>GMAIL: sainivaskale2@gmail.com</p>
+        </div>
+    
+    <div class="social-icons">
+        <div class="social-icon">
+            <a href="https://www.instagram.com/_sai._.nivas_/">
+                <img src="https://imgs.search.brave.com/4HDqFbLOhjQll4awFRi3DtGHbSGlDQM__WHnn-GI5Rc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk1L0luc3RhZ3Jh/bV9sb2dvXzIwMjIu/c3Zn " class="social-icon-image" >   
+            </a>
+                <a href="https://github.com/KSatyaSaiNivas">
+                <img src="https://imgs.search.brave.com/kl1HbywIpkyuoL9SVq1M8dFDwomlkQIailX-luGN0ao/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1wc2Qv/M2Qtc29jaWFsLW1l/ZGlhLWdpdGh1Yi1p/Y29uLXJlbmRlcmlu/Zy1mcm9udC12aWV3/XzM5MTg5MC0xODMz/MC5qcGc_c2VtdD1h/aXNfaXRlbXNfYm9v/c3RlZCZ3PTc0MA" class="social-icon-image" >
+           
+            </a>
+                <a href="https://www.linkedin.com/in/kale-sai-nivas-4b411828a/">
+                <img src="https://imgs.search.brave.com/9R8hrAfU39GJqEVb11JDZvO42-qpp_bOlXlhG9hKU-Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMzkzOC8zOTM4/MDQ0LnBuZw" class="social-icon-image" >
+                
+            </a>
+         </div>
+        </div>
+    </div>
+</body>
+</html>
